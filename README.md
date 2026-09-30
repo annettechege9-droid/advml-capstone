@@ -161,7 +161,7 @@ Select the most suitable model based on the results.
 15. Conclusions
 Answer the research questions and discuss the findings.
 ________________________________________
-12. Evaluation Metrics
+## Evaluation Metrics
 MAE — Mean Absolute Error
 Shows the average difference between the predicted and actual claim amounts.
 RMSE — Root Mean Squared Error
